@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ludde1224/WaterTheOdds-Auto-Irrigation">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://jooinn.com/images/under-construction-3.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">WaterTheOdds</h3>
@@ -152,7 +152,6 @@ See the [open issues](https://github.com/ludde1224/WaterTheOdds-Auto-Irrigation/
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -162,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
+### Contributors:
 
 <a href="https://github.com/ludde1224/WaterTheOdds-Auto-Irrigation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ludde1224/WaterTheOdds-Auto-Irrigation" alt="contrib.rocks image" />
@@ -175,7 +174,7 @@ Don't forget to give the project a star! Thanks again!
 
 This project is distributed under two separate licenses:
 
-- **Hardware**: All files for 3D-printed parts and hardware designs are licensed under the [CERN OHL v2 Weakly Reciprocal](./LICENSE-CERN-OHL-W-2.0).  
+- **Hardware**: All files for 3D-printed parts and hardware designs are licensed under the [CERN OHL v2 Weakly Reciprocal](./LICENSE.txt).  
 - **Software**: All code and firmware are licensed under the [GNU General Public License v3.0](./LICENSE-GPL-3.0-or-later).  
 
 Please refer to the individual LICENSE files for details.  
@@ -221,7 +220,7 @@ Project Link: [https://github.com/ludde1224/WaterTheOdds-Auto-Irrigation](https:
 [license-url]: https://github.com/ludde1224/WaterTheOdds-Auto-Irrigation/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ludwig-schreither/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://jooinn.com/images/under-construction-3.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
